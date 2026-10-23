@@ -645,7 +645,7 @@
   },
   "Loyalty Gunshot": {
     "cost": 25,
-    "effect": "Gun damage to all enemies. Power scales with loyalty. Used by Sandman and Cherb.",
+    "effect": "Gun damage to all enemies. Power scales with loyalty. Used by Sandman and Cherub.",
     "elem": "gun",
     "power": 0,
     "unique": true
@@ -877,7 +877,8 @@
   "Necroma": {
     "cost": 1024,
     "effect": "Summons the dead allied demon into battle in Undead status.",
-    "elem": "special"
+    "elem": "special",
+    "unique": true
   },
   "Nice Short": {
     "cost": 26,
@@ -1048,7 +1049,8 @@
   "Sabatoma": {
     "cost": 1018,
     "effect": "Summons one demon from the COMP without Magnetite cost.",
-    "elem": "special"
+    "elem": "special",
+    "unique": true
   },
   "Samarecarm": {
     "cost": 1016,
@@ -1117,7 +1119,8 @@
   "Soma Gongen": {
     "cost": 1006,
     "effect": "Liberates Soma's power to recover all HP, MP and ailments to one human target.",
-    "elem": "recovery"
+    "elem": "recovery",
+    "unique": true
   },
   "Somersault": {
     "cost": 12,
@@ -1197,11 +1200,12 @@
     "effect": "Decreases physical attack power to all enemies by 20%-40%-60%-80%.",
     "elem": "support"
   },
-  "Tatami Flip": {
+  "Tatami-Gaeshi": {
     "cost": 4,
-    "effect": "Reflects any non-Almighty physical attack for one turn to all allies.",
+    "effect": "Reflects any non-Almighty physical attack for one turn to all allies. Used by Yoshitsune.",
     "elem": "almighty",
-    "power": 0
+    "power": 0,
+    "unique": true
   },
   "Tetraja": {
     "cost": 1008,
